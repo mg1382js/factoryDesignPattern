@@ -1,0 +1,16 @@
+{
+  "name": "@mahdi.golzar/dynamicfactory",
+  "version": "1.0.0",
+  "description": "class include design pattern factory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design Pattern factory",
+    "pattern",
+    "factory"
+  ],
+  "author": "mahdi.golzar",
+  "license": "ISC"
+}
